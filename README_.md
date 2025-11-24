@@ -1,10 +1,10 @@
-# 📊 Where Is My Money Going?
+#  Where Is My Money Going?
 
 ### A Terminal-Based Python Expense Tracker
 
 ------------------------------------------------------------------------
 
-## 📌 Problem Identification
+##  Problem Identification
 
 Many individuals struggle to track their daily expenses and understand
 where their money is being spent. Without a simple and accessible
@@ -16,7 +16,7 @@ expense tracking system** that runs entirely in the Python terminal.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objectives & Expected Outcomes
+##  Objectives & Expected Outcomes
 
 ### Objectives
 
@@ -33,7 +33,7 @@ expense tracking system** that runs entirely in the Python terminal.
 
 ------------------------------------------------------------------------
 
-## 🧠 Concepts Applied
+##  Concepts Applied
 
 This project applies fundamental Python programming concepts: -
 Functions and modular programming\
@@ -45,7 +45,7 @@ Functions and modular programming\
 
 ------------------------------------------------------------------------
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 -   **Python 3**
 -   Standard Python libraries only (No external dependencies)
@@ -53,7 +53,7 @@ Functions and modular programming\
 
 ------------------------------------------------------------------------
 
-## 🧩 Structured Development Process
+##  Structured Development Process
 
 ### 1. Problem Definition
 
@@ -100,7 +100,7 @@ users to view summaries and analyze spending trends effectively.
 
 ------------------------------------------------------------------------
 
-## ▶ How To Run The Program
+##  How To Run The Program
 
 1.  Make sure Python is installed.
 2.  Clone this repository:
@@ -117,7 +117,7 @@ python code.py
 
 ------------------------------------------------------------------------
 
-## 📷 Sample Features
+##  Sample Features
 
 -   Add Expense\
 -   View All Expenses\
@@ -126,7 +126,7 @@ python code.py
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 -   Save expenses to a file (CSV / JSON)
 -   Monthly expense reports
@@ -136,7 +136,7 @@ python code.py
 
 ------------------------------------------------------------------------
 
-## ✅ Conclusion
+##  Conclusion
 
 This project offers a practical solution to a real-world financial
 problem using basic Python programming. It demonstrates structured
