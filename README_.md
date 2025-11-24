@@ -142,14 +142,3 @@ This project offers a practical solution to a real-world financial
 problem using basic Python programming. It demonstrates structured
 development, clear logic flow, and effective modular design, making it
 ideal for beginners and academic submissions.
-
-------------------------------------------------------------------------
-
-### 👨‍💻 Author
-
-Your Name Here\
-Feel free to customize and expand this project further.
-
-------------------------------------------------------------------------
-
-⭐ If you found this helpful, consider starring the repository!
