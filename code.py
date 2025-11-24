@@ -73,7 +73,7 @@ def main_menu():
         elif choice == "3":
             view_total_spent()
         elif choice == "4":
-            print("Goodbye! Stay mindful of your spending ✨")
+            print("Goodbye! Stay mindful of your spending ")
             break
         else:
             print("Invalid choice. Please enter 1-4.\n")
@@ -81,3 +81,4 @@ def main_menu():
 
 # Start the program
 main_menu()
+
